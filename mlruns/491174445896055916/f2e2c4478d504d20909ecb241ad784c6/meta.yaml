@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/491174445896055916/f2e2c4478d504d20909ecb241ad784c6/artifacts
+deleted_time: 1750494901699
+end_time: 1750494835363
+entry_point_name: ''
+experiment_id: '491174445896055916'
+lifecycle_stage: deleted
+run_id: f2e2c4478d504d20909ecb241ad784c6
+run_name: orderly-whale-291
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750494835355
+status: 4
+tags: []
+user_id: ronie-samuel

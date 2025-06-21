@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/491174445896055916/ef798076025141228e9845ba12f20a53/artifacts
+end_time: 1750494852030
+entry_point_name: ''
+experiment_id: '491174445896055916'
+lifecycle_stage: active
+run_id: ef798076025141228e9845ba12f20a53
+run_name: polite-eel-855
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750494849716
+status: 3
+tags: []
+user_id: ronie-samuel

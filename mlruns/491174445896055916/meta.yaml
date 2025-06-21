@@ -1,0 +1,6 @@
+artifact_location: mlflow-artifacts:/491174445896055916
+creation_time: 1750494793588
+experiment_id: '491174445896055916'
+last_update_time: 1750494793588
+lifecycle_stage: active
+name: Initial-trained-model

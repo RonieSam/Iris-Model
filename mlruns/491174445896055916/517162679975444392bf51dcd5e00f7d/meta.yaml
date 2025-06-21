@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/491174445896055916/517162679975444392bf51dcd5e00f7d/artifacts
+deleted_time: 1750494901699
+end_time: 1750494819256
+entry_point_name: ''
+experiment_id: '491174445896055916'
+lifecycle_stage: deleted
+run_id: 517162679975444392bf51dcd5e00f7d
+run_name: bouncy-finch-472
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750494819244
+status: 4
+tags: []
+user_id: ronie-samuel
