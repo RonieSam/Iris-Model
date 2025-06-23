@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/491174445896055916/9ee9c9447e5549f0a55db2ff5898e58a/artifacts
+end_time: 1750658760081
+entry_point_name: ''
+experiment_id: '491174445896055916'
+lifecycle_stage: active
+run_id: 9ee9c9447e5549f0a55db2ff5898e58a
+run_name: zealous-robin-770
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750658758758
+status: 3
+tags: []
+user_id: ronie-samuel

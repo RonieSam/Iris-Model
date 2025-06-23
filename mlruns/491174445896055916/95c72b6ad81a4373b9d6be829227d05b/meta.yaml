@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/491174445896055916/95c72b6ad81a4373b9d6be829227d05b/artifacts
+end_time: 1750658686421
+entry_point_name: ''
+experiment_id: '491174445896055916'
+lifecycle_stage: active
+run_id: 95c72b6ad81a4373b9d6be829227d05b
+run_name: respected-doe-631
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750658684825
+status: 3
+tags: []
+user_id: ronie-samuel

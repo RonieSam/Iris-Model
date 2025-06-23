@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/491174445896055916/754797d06b834e26a2f7290755fb5239/artifacts
+end_time: 1750658655755
+entry_point_name: ''
+experiment_id: '491174445896055916'
+lifecycle_stage: active
+run_id: 754797d06b834e26a2f7290755fb5239
+run_name: bittersweet-sheep-36
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750658655541
+status: 4
+tags: []
+user_id: ronie-samuel

@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/491174445896055916/2cd4b78f005449cb9e69061111193e2b/artifacts
+end_time: 1750658655481
+entry_point_name: ''
+experiment_id: '491174445896055916'
+lifecycle_stage: active
+run_id: 2cd4b78f005449cb9e69061111193e2b
+run_name: mercurial-perch-653
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750658653887
+status: 3
+tags: []
+user_id: ronie-samuel
